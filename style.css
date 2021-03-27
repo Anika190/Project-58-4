@@ -1,0 +1,22 @@
+body {
+    background-color: chartreuse;
+}
+
+div {
+    margin-top: 15px;
+}
+
+.image-section {
+    display: flex;
+    justify-content: center;
+}
+
+.section-style {
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+img{
+    height: 300px;
+    width: 400px;
+}
